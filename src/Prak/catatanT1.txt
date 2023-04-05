@@ -1,0 +1,24 @@
+Java
+
+1. Membuat class Tugas1 untuk menyimpan struktur data stack dan method untuk membalikkan urutan string.
+2. Menggunakan array untuk menyimpan elemen stack.
+3. Method push digunakan untuk menambahkan elemen ke dalam stack, sedangkan method pop digunakan untuk menghapus elemen dari stack.
+4. Method reverseString digunakan untuk membalikkan urutan string. Setiap karakter dari string ditambahkan ke dalam stack menggunakan method push. Kemudian, setiap karakter dihapus dari stack menggunakan method pop dan ditambahkan ke dalam string hasil balik.
+5. Di dalam method main, user diminta untuk memasukkan sebuah string. Kemudian, method reverseString dipanggil untuk membalikkan urutan string, dan hasilnya ditampilkan pada layar.
+
+
+
+Python
+
+1.Struktur data Stack
+
+ menggunakan class Stack untuk membuat objek stack.
+Stack memiliki tiga metode: push, pop, dan is_empty.
+ mengimplementasikan Stack dengan menggunakan list Python.
+2. Fungsi reverse_string
+
+ fungsi reverse_string yang mengambil sebuah string sebagai input.
+ menggunakan loop untuk mendorong setiap karakter dari string ke dalam stack.
+Kemudian,  mengeluarkan setiap karakter dari stack satu per satu dan menambahkannya ke reversed_string.
+Akhirnya, mengembalikan reversed_string.
+Di bagian akhir program,  mengambil input dari pengguna dan memanggil fungsi reverse_string untuk membalikkan string. Output akhir berupa string yang telah dibalik.
