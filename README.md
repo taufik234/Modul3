@@ -1,2 +1,2 @@
 File Ada di src 
-Tugas dan Praktikum
+Latihan Dan Prak
